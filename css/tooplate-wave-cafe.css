@@ -1,11 +1,3 @@
-/*
-
-Tooplate 2121 Wave Cafe
-
-https://www.tooplate.com/view/2121-wave-cafe
-
-*/
-
 html { scroll-behavior: smooth; }
 
 body {
@@ -145,7 +137,7 @@ h2 { margin-top: 0; }
 }
 
 .tm-drinks-nav { height: 80px; }
-.tm-main { max-width: 660px; }
+.tm-main {max-width: 720px;}
 
 .tm-drinks-nav > ul {
     display: flex;
@@ -204,7 +196,7 @@ h2 { margin-top: 0; }
 
 .tm-footer-link { color: white; }
 .tm-tab-content { animation: fadeEffect 1s; }
-.tm-page-content {width: 80%;animation: fadeEffect 1s;}
+.tm-page-content {width: 100%;animation: fadeEffect 1s;}
 
 .tm-text-primary {color: #e5b33c;}
 .tm-mb-20 { margin-bottom: 20px; }
@@ -360,7 +352,7 @@ h2 { margin-top: 0; }
       font-size: 14px;
       height: 55px;
       line-height: 55px;
-      width: 150px;
+      width: 100%;
     }
   } 
 
